@@ -1,0 +1,7 @@
+puts 'Hello world!'
+puts 'Hello again'
+puts 'I like typing this'
+puts 'I like this'
+puts 'Yay! I like this'
+puts 'I\'d must rather you \'not\''
+puts 'I "said" do not touch this.'
